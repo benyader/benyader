@@ -1,4 +1,4 @@
-# BenyAder
+# Benyader
 
 Developer focused on Python, automation and AI-powered tools.
 
